@@ -240,8 +240,8 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Developer
 
-**Sumit Kumar**  
-B.Tech ECE (IIOT) | MERN Stack Developer  
-NIT Kurukshetra
+**Vaishnavi Palla**  
+B.Tech CSE (AIML) | MERN Stack Developer  
+Aditya College of Engineering and Technology
 
 ---
