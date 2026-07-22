@@ -242,6 +242,6 @@ This project is licensed under the MIT License.
 
 **Vaishnavi Palla**  
 B.Tech CSE (AIML) | MERN Stack Developer  
-Aditya College of Engineering and Technology
+Aditya College of Engineering and Technology Surampalem
 
 ---
